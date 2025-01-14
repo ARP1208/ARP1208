@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React**.
 
-- 👯 I’m looking to collaborate on projects based on **HTML, TaliwinndCSS, JavaScript, Node.js, React, Next.js**.
+- 👯 I’m looking to collaborate on projects based on **HTML, TaliwinndCSS, JavaScript**.
 
 - 💬 Ask me about **Computer Science, Web Development**.
 
