@@ -20,3 +20,7 @@
 <p align="left">
 <a href="https://x.com/abhinavraj1208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavraj1208" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhinavraj1208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinavraj1208/" height="30" width="40" /></a>
+
+
+## My GitHub Statistics 📊
+![ARP1208's Stats](https://github-readme-stats.vercel.app/api?username=ARP1208&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
