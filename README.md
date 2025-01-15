@@ -16,10 +16,10 @@
 
 - 📫 How to reach me **sgnika1208@gmail.com**.
 
-## Connect with me 🌐
+## Connect with me 🌏
 <p align="left">
 <a href="https://x.com/abhinavraj1208" target="blank"><img align="center" src="/x-social-media-logo-icon.svg" alt="abhinavraj1208" height="40" width="50" /></a>
-<a href="https://www.linkedin.com/in/abhinavraj1208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinavraj1208/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhinavraj1208/" target="blank"><img align="center" src="/linkedin-icon.svg" alt="https://www.linkedin.com/in/abhinavraj1208/" height="40" width="50" /></a>
 
 ## Operating Systems
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
