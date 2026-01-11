@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://x.com/abhinavraj1208" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavraj1208?logo=twitter&style=for-the-badge" alt="abhinavraj1208" /></a> </p>
 
 ## About Myself 👨‍🎓
-- Hi, I am Abhinav Raj. I am currently learning Full Stack Web Development by building projects and I am also looking forward to open source contributions. If you need any help regarding Development or any CS field then feel free to DM me on X(previously Twitter). I will try my best to help you 😃👍. My DMs are always open ✉️.
+- Hi, I am Abhinav Raj. I am currently learning Full Stack Web Development by building projects and I am also looking forward to open source contributions. If you need any help regarding Development or any CS field then feel free to DM me. I will try my best to help you 😃👍. My DMs are always open ✉️.
 
 - 🌱 I’m currently learning **JavaScript and React**.
 
@@ -16,10 +16,10 @@
 
 - 📫 How to reach me **sgnika1208@gmail.com**.
 
-## Connect with me 🌏
+<!-- ## Connect with me 🌏
 <p align="left">
 <a href="https://x.com/abhinavraj1208" target="blank"><img align="center" src="/x-social-media-logo-icon.svg" alt="abhinavraj1208" height="40" width="50" /></a>
-<a href="https://www.linkedin.com/in/abhinavraj1208/" target="blank"><img align="center" src="/linkedin-icon.svg" alt="https://www.linkedin.com/in/abhinavraj1208/" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/abhinavraj1208/" target="blank"><img align="center" src="/linkedin-icon.svg" alt="https://www.linkedin.com/in/abhinavraj1208/" height="40" width="50" /></a> -->
 
 ## Operating Systems
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
