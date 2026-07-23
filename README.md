@@ -8,13 +8,13 @@
 ## About Myself 👨‍🎓
 - Hi, I am Abhinav Raj. I am currently learning Full Stack Web Development by building projects and I am also looking forward to open source contributions. If you need any help regarding Development or any CS field then feel free to DM me. I will try my best to help you 😃👍. My DMs are always open ✉️.
 
-- 🌱 I’m currently learning **JavaScript and React**.
+- 🌱 I’m currently learning **RUST**.
 
 - 👯 I’m looking to collaborate on projects based on **HTML, TaliwinndCSS, JavaScript**.
 
 - 💬 Ask me about **Computer Science, Web Development**.
 
-- 📫 How to reach me **sgnika1208@gmail.com**.
+- 📫 How to reach me **arp1208@proton.me**.
 
 <!-- ## Connect with me 🌏
 <p align="left">
