@@ -6,11 +6,11 @@
 <!-- <p align="left"> <a href="https://x.com/abhinavraj1208" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavraj1208?logo=twitter&style=for-the-badge" alt="abhinavraj1208" /></a> </p> -->
 
 ## About Myself 👨‍🎓
-- Hi, I am Abhinav Raj. I am currently learning Full Stack Web Development by building projects and I am also looking forward to open source contributions. If you need any help regarding Development or any CS field then feel free to DM me. I will try my best to help you 😃👍. My DMs are always open ✉️.
+- Hi, I am Abhinav Raj. I am currently learning Full Stack Web Development by building projects and I am also looking forward to open source contributions. If you need any help regarding Development or any CS field then feel free to DM me. I will try my best to help you. My DMs are always open ✉️.
 
 - 🌱 I’m currently learning **RUST**.
 
-- 👯 I’m looking to collaborate on projects based on **HTML, TaliwinndCSS, JavaScript**.
+- 👯 I’m looking to collaborate on projects based on **Rust, HTML, TaliwinndCSS, JavaScript**.
 
 - 💬 Ask me about **Computer Science, Web Development**.
 
